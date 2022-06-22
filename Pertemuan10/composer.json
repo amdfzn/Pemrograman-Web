@@ -1,0 +1,13 @@
+{
+    "name": "user/pertemuan10",
+    "description": "coba",
+    "autoload": {
+        "psr-4": {
+            "User\\Pertemuan10\\": "src/"
+        }
+    },
+    "require": {},
+    "scripts": {
+        "server": "php -S localhost:8000"
+    }
+}
